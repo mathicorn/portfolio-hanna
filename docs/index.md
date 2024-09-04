@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Hanna Chen"
-  text: "a Computer Enthusiast's portfolio"
+  text: "a Computer Science Enthusiast's portfolio"
   tagline: "6.1040, Fall 2024"
   actions:
     - theme: brand
