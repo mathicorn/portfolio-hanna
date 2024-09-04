@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Hanna Chen"
+  text: "a Computer Enthusiast's portfolio"
+  tagline: "6.1040, Fall 2024"
   actions:
     - theme: brand
       text: Template Repository
