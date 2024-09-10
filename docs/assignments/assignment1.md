@@ -30,6 +30,7 @@ I plan to interview a high schooler and a middle schooler. The high schooler, AC
 - Describe your experience with playing instrumental music
 - What about your musical activities did you enjoy and not enjoy? (Followup: explain why you enjoyed/didn't enjoy each of these aspects)
 - What were some challenges that you faced during your journey? (Followup: how did you overcome these challenges?)
+- If you could make some changes to your journey with music so far, what would they be and why?
 </details>
 
 <details>
@@ -63,7 +64,8 @@ I plan to interview a high schooler and a middle schooler. The high schooler, AC
 - **That makes sense, repetition can definitely be boring. Did you enjoy any part of your musical journey though? If so, which one(s)?:** It was fun when I could finally play a piece coherently. I like listening to the final product, it's just the process wasn't fun for me.
 - **I see. What were the biggest challenges you faced during your journey?:** I would definitely say a lack of detailed purposes. I didn't know what I was doing until I got to where I wanted to be, which sometimes took a long time.
 - **Did you do anything to overcome these challenges?:** I asked my teacher about it, but both times they said to just keep practicing and I will reach the goal, which did not help for me. 
-- **I see. So, going on a tangent here, tell me about your other hobbies, especially the ones that you spend the most time on.:** I mostly like developing and playing video games.
+- **I see. So if you could have a do-over, what would you change?:** I wish I could have been able to set better goals, but I'm not sure what I could change to achieve that. 
+- **So, going on a tangent here, tell me about your other hobbies, especially the ones that you spend the most time on.:** I mostly like developing and playing video games.
 - **Ooh that sounds really fun, tell me more!:** Well, for developing, I code in Unity and repeatedly test my code by playing through what I have. In terms of playing games, I like playing Geometry Dash.
 - **Coding a game seems really hard! I'm sure you face challenges at some points--what about these challenges makes u enjoy the process?:** I can see the progress more clearly, whereas for practicing music it seems like an endless loop often. 
 - **That can definitely be frustrating, I get you there. So, to make sure I understood you correctly, you like that you can feel rewarded during the process as well? Is it by seeing the light at the end of the tunnel, or something else?:** I think it's mostly that I can see clear goals, both the end product and the middle product, whereas for music I can't. 
@@ -88,14 +90,16 @@ I plan to interview a high schooler and a middle schooler. The high schooler, AC
 - **Yep, interactive mediums such as videos seem useful. What would you say were the biggest challenges during your process?:** I think the main problem was that the videos were hard to find, since they were all over the place and not organized into anything useful. 
 - **That can be hard for sure! But it's good that you still managed to become so advanced at piano. What would you say was the most fun part of your journey?:** I think it was all really fun! But if I had to pick one, I would have to say the day I could finally play the first Chopin Nocturne. I felt so happy that I could finally play one of my favorite pieces at the time. 
 - **That does sound rewarding, I'm glad you were able to enjoy that moment. What are your goals as a musician/pianist moving forward?:** I want to learn some other pieces I really like, such as the Beethoven Waldstein Sonata and maybe even a piano concerto. 
-- **Good luck with your goals! Thank you for taking the time to participate in this interview. 
+- **Good luck with those goals! If you could change something about your journey, what would this change be?:** I would figure out ways to take lessons or learn more systematically because I can definitely see the technical flaws in my playing but it's hard to fix them now. 
+- **I hope you can overcome those challenges. To wrap this up, if you had a set of organized tutorial videos, how much would that have helped you?:** It would definitely have been more helpful. 
+- **Thank you for taking the time to participate in this interview.**
 </details>
 
 ## Summaries <a name = "summaries"></a>
 
 <details>
 <summary><b>RH</b></summary>
-This interviewee did not have much passion for music so far, which was expected since I knew before that he "quit both [piano and violin] after a few months". However, it was surprising that he seemed disappointed that he disliked practicing. He even "asked [his] teacher about it", but received ideas that were not helpful. I managed to find out that he does not enjoy tasks where there is only one far away visible goal and nothing tangible or close. He also seemed to have trouble with setting these goals with music. This differed from how he could set goals for other activities such as game dev or playing games. This made sense to me, since setting goals can be hard for some intangible things where you cannot immediately see results, while on the other hand he could set goals like "perfecting a certain level" of a game he was developing or "beating the different rooms" in the game he was playing. I was once again surprised at the end when he said that if he were able to form goals better he would enjoy practicing more; however this did make sense, since he seemed to simply be frustrated about not seeing progress. 
+This interviewee did not have much passion for music so far, which was expected since I knew before that he "quit both [piano and violin] after a few months". However, it was surprising that he seemed disappointed that he disliked practicing. He even "asked [his] teacher about it", but received ideas that were not helpful. I managed to find out that he does not enjoy tasks where there is only one far away visible goal and nothing tangible or close. He also seemed to have trouble with setting these goals with music. This differed from how he could set goals for other activities such as game dev or playing games. This made sense to me, since setting goals can be hard for some intangible things where you cannot immediately see results, while on the other hand he could set goals like "perfecting a certain level" of a game he was developing or "beating the different rooms" in the game he was playing. I was once again surprised at the end when he said that if he were able to form goals better he would enjoy practicing more, and how if he were to change one thing it would be "to set better goals"; however this did make sense, since he seemed to simply be frustrated about not seeing progress, instead of finding the music itself boring.
 </details>
 
 <details>
